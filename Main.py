@@ -13,8 +13,8 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 #they don't add much value to the analysis. So, essentially, NLTK uses stop words to refer to these
 #meaningless words that we want to ignore or remove during text processing.
 
-# # downloading stop words
-# nltk.download('stopwords')
+# downloading stop words
+nltk.download('stopwords')
 
 # Creating steaming function
 pso = PorterStemmer()
