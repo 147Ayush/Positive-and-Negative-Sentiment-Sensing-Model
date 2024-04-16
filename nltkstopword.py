@@ -1,3 +1,4 @@
+#Saving nltk stopword in a stopword.txt file
 import nltk
 nltk.download('stopwords')
 from nltk.corpus import stopwords
