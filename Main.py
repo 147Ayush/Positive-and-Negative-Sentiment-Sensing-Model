@@ -39,11 +39,11 @@ def stemming(content):
 
 
 # importing model
-with open('D:/Python/pythonProject/Projects/twitter_sentiment_analysis/Sentiment.pkl', 'rb') as file:
+with open('Sentiment.pkl', 'rb') as file:
     model = pickle.load(file)
 
 # importing TfidfVectorizer vocabulary file
-with open('D:/Python/pythonProject/Projects/twitter_sentiment_analysis/vocab.pkl','rb') as files:
+with open('vocab.pkl','rb') as files:
     vocabulary = pickle.load(files)
 
 vec = TfidfVectorizer(vocabulary=vocabulary)
