@@ -7,15 +7,6 @@
 
 **The Sentiment Sensing Model** is designed to analyze text data and determine the sentiment expressed within it. The model can classify text as positive, negative.
 
-## Model Architecture
-
-### Components
-
-- **Text Preprocessing**: Tokenization, stop-word removal, stemming/lemmatization.
-- **Feature Extraction**: Techniques like TF-IDF, word embeddings.
-- **Model Type**:  Logistic Regression machine learning model  
-- **Streamlit Cloud**: For Deployment of App
-
 ## Setup and Installation
 
 ### Prerequisites
@@ -30,6 +21,15 @@ Ensure you have Python and the necessary libraries installed. You can install th
 ```bash
 pip install -r requirements.txt
 ```
+
+## Model Architecture
+
+### Components
+
+- **Text Preprocessing**: Tokenization, stop-word removal, stemming/lemmatization.
+- **Feature Extraction**: Techniques like TF-IDF, word embeddings.
+- **Model Type**:  Logistic Regression machine learning model  
+- **Streamlit Cloud**: For Deployment of App
 
 ### Preprocessing
 
