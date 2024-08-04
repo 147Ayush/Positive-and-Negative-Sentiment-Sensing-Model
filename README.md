@@ -5,7 +5,7 @@
 
 ## Introduction 
 
-**The Sentiment Sensing Model** is designed to analyze text data and determine the sentiment expressed within it. The model can classify text as positive, negative, or neutral based on the emotions conveyed.
+**The Sentiment Sensing Model** is designed to analyze text data and determine the sentiment expressed within it. The model can classify text as positive, negative.
 
 ## Model Architecture
 
