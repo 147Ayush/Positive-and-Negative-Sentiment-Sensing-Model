@@ -16,6 +16,21 @@
 - **Model Type**:  Logistic Regression machine learning model  
 - **Streamlit Cloud**: For Deployment of App
 
+## Setup and Installation
+
+### Prerequisites
+
+Clone Repository
+
+```bash
+Git clone https://github.com/147Ayush/Sentiment_Sensing_Model.git
+```
+
+Ensure you have Python and the necessary libraries installed. You can install the required libraries using pip:
+```bash
+pip install -r requirements.txt
+```
+
 ### Preprocessing
 
 - **Tokenization**: Splitting text into individual tokens (words).
