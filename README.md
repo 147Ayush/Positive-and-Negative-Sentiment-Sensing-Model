@@ -69,6 +69,6 @@ pip install -r requirements.txt
 - **Sentiment Label**: Predicted sentiment (positive, negative).
 
 ## Deployment Link
-https://147ayush-positive-and-negative-sentiment-sensing-mo-main-vs7rke.streamlit.app/
+https://huggingface.co/spaces/147Ayush/Sentiments_Sensing_model
 
 
